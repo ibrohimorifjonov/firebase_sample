@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const clrBlack = Color(0xff000000);
+const clrOrange = Color(0xffff7643);
+const clrActive = Color(0xffFFA41D);
+const clrCompleted = Color(0xff53DB8C);
+const clrCancel = Color(0xffF84343);
+const clrSilver = Color(0xffefefef);
+const clrBlackTitle = Color(0xff1E1E1E);
+const clrImportantBlack = Color(0xff212121);
+const clrInActiveText = Color(0x661e1e1e);
+const clrError = Color(0xfff84343);
+const clrCardBackground = Color(0xFFF6F6F6);
+const clrInactive = Color(0xffe0e0e0);
+const clrStatsBackground = Color(0xffeaeaea);
+const clrDiscountDividerColor = Color(0xffdbdfe0);
+const clrAboutApp = Color(0xff272727);
+const clrWhite = Color(0xFFFFFFFF);
+const clrBlack1 = Color(0xff333333);
+const clrGreen = Color(0xFF4CAF50);
